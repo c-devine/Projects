@@ -7,4 +7,4 @@ title: XFLR
 
 _yay_
 
-[back](/)
+[back]({{site.url}})
