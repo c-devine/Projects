@@ -23,4 +23,4 @@ and offset are editable for both the tip and root.  There is a 2D view of the ai
 wing. G-code can be generated for both the right and left (mirrored) wings. Created to generate G-code for low cost (?) hotwire foam
 cutter.  See [wiki](https://github.com/c-devine/WingGcodeBuilder/wiki).
 
-- All software archived on [GitHub](https://github.com/c-devine/WingGcodeBuilder)
+- All software and instructions are hosted on [GitHub](https://github.com/c-devine/WingGcodeBuilder)
