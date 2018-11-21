@@ -5,7 +5,7 @@ title: XFLR5 / Blender / Sketchup / CNC Slope Foamie Project
 
 ## Overview
 
-Project used to python software, scripts, and steps needed to go from models created in [XLFR5](http://www.xflr5.com/), exported to Blender,
+Project used to capture and document the python scripts, software, and steps needed to go from models created in [XLFR5](http://www.xflr5.com/), exported to Blender,
 for CAM and CNC file generation in Blender with BlenderCAM.
 
 ### Snapshots
