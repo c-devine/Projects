@@ -1,6 +1,6 @@
 ## Just for fun projects :)
 
-Best viewed as [GitHub Pages](https://c-devine.github.io/Projects/)
+Best viewed as GitHub Pages [Here](https://c-devine.github.io/Projects/)
 
 ### JavaFX Airfoil GCode Generator
 
