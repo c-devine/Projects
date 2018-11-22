@@ -2,6 +2,8 @@
 layout: project
 title: 4 Axis CNC Hotwire Machine
 ---
+![design](https://forthebadge.com/images/badges/designed-in-etch-a-sketch.svg)
+![beta](https://forthebadge.com/images/badges/compatibility-betamax.svg)
 
 ## Overview
 

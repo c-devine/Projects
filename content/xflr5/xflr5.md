@@ -2,7 +2,8 @@
 layout: project
 title: XFLR5 / Blender / Sketchup / CNC Slope Foamie Project
 ---
-
+![python](https://forthebadge.com/images/badges/made-with-python.svg)
+![nuts](https://forthebadge.com/images/badges/does-not-contain-treenuts.svg)
 ## Overview
 
 Project used to capture and document the python scripts, software, and steps needed to go from models created in [XLFR5](http://www.xflr5.com/), exported to Blender,

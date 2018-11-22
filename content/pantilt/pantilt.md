@@ -2,19 +2,25 @@
 layout: project
 title: Various Pan Tilt controller plugins and firmware implementations for OctoPrint server
 ---
-
+![python](https://forthebadge.com/images/badges/made-with-python.svg)
+![c++](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)
+![netflix](https://forthebadge.com/images/badges/powered-by-netflix.svg)
 ## Overview
 
-The projects below extend the plugin controls developed by Salandora and add support for a simple and
-low cost 2 axis gimbal bracket. The plugins use the web cam controls (added through the
-Octoprint-PanTilt plugin) located on the control tab.
+[OctoPrint](https://octoprint.org/) is a popular 3D printer control software package.  It has a number of built in
+features, including video monitoring capabilities - but by default it can not control the position of the camera.
+ But, OctoPrint is extensible through user created Python plugins. This project captures the plugins and firmware developed
+to add video pan/tilt capability to the OctoPrint server.   The projects below add serial and pwm controls to the
+UI controls added in the plugin [OctoPrint-PanTilt](https://github.com/Salandora/OctoPrint-PanTilt) and add support
+for a simple and low cost 2 axis gimbal bracket.
 
-Two plugins, and associated firmware files were created:
- - [Arduino Nano](https://github.com/c-devine/OctoPrint-PanTilt-Nano) used as the controller for the gimbal. The Nano is controlled
+## Repositories
+ - [Arduino Nano Plugin](https://github.com/c-devine/OctoPrint-PanTilt-Nano) used as the controller for the gimbal. The Nano is controlled
 and powered through the USB port. Firmware is located [Here](https://github.com/c-devine/OctoPrint-PanTilt-Nano-Firmware)
- - [ESP8266](https://github.com/c-devine/OctoPrint-PanTilt-ESP8266) used as the controller for the gimbal. The ESP8266 is controlled
+ - [ESP8266 Plugin](https://github.com/c-devine/OctoPrint-PanTilt-ESP8266) used as the controller for the gimbal. The ESP8266 is controlled
 and powered through the USB port. Firmware is located [Here](https://github.com/c-devine/OctoPrint-PanTilt-ESP8266-Firmware)
-
+- [Simple PWM Control](https://github.com/c-devine/OctoPrint-PanTilt-Script) PGIO script to use existing PWM pins on the Raspberry PI
+to control the gimbal.
 
 ### Snapshots
 

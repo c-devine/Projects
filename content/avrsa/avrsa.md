@@ -2,6 +2,8 @@
 layout: project
 title: AVR Smart Audio for RC Aircraft without a Flight Controller (FC)
 ---
+![c++](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)
+![gifs](https://forthebadge.com/images/badges/contains-cat-gifs.svg)
 
 ## Overview
 

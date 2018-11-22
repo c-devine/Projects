@@ -1,6 +1,10 @@
 ## Just for fun projects :)
+![badges](https://forthebadge.com/images/badges/uses-badges.svg)
+![winter](https://forthebadge.com/images/badges/winter-is-coming.svg)
+
 
 Best viewed as GitHub Pages [Here](https://c-devine.github.io/Projects/)
+
 
 ### JavaFX Airfoil GCode Generator
 
