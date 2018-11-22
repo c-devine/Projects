@@ -10,7 +10,7 @@ title: Java FX GCODE Generator
 
 I needed some way to create GCode files for a 4 Axis CNC hotwire machine I built to cut out foam wings.  After
 looking around for a while, I didn't find exactly what I was looking for, so I created this project.  All the
-software and pre-buit [releases](https://github.com/c-devine/WingGcodeBuilder/releases) are saved on [Here](https://github.com/c-devine/WingGcodeBuilder) on GitHub.
+software and pre-buit [releases](https://github.com/c-devine/WingGcodeBuilder/releases) are saved [Here](https://github.com/c-devine/WingGcodeBuilder) on GitHub.
 
 ### Snapshots
 <img src="https://raw.githubusercontent.com/c-devine/WingGcodeBuilder/snapshots/assets/img/2D.png?raw=true" width="180" height="120">
