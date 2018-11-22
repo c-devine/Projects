@@ -16,6 +16,11 @@ Best viewed as [GitHub Pages](https://c-devine.github.io/Projects/)
 ![AvrSA](content/avrsa/img/avrsa-button-small.png?raw=true)[Project Overview](content/avrsa/avrsa.md)
 
 
+### Pan/Tilt controller firmware for OctoPrint Server
+
+![PanTilt](content/pantilt/img/pantilt-button-small.png?raw=true)[Project Overview](content/pantilt/pantilt.md)
+
+
 ### XFLR5 / Blender / Sketchup / CNC Slope Foamie Project
 
 ![XFLR5](content/xflr5/img/xflr5-button-small.png?raw=true)[Project Overview](content/xflr5/xflr5.md)
