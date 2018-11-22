@@ -8,7 +8,7 @@ title: Java FX GCODE Generator
 
 ## Overview
 
-I needed some way to create GCode files for a 4 Axis CNC hotwire machine I built to cut out foam wings.  After
+I needed some way to create GCODE files for a 4 Axis CNC hotwire machine I built to cut out foam wings.  After
 looking around for a while, I didn't find exactly what I was looking for, so I created this project.  All the
 software and pre-buit [releases](https://github.com/c-devine/WingGcodeBuilder/releases) are saved [Here](https://github.com/c-devine/WingGcodeBuilder) on GitHub.
 
@@ -20,7 +20,7 @@ software and pre-buit [releases](https://github.com/c-devine/WingGcodeBuilder/re
 
 ### Software
 
-JavaFX / Spring Boot application used to create G-code files for 4 axis hotwire cutting machine. The application can import Selig and Lednicer format airfoil .dat
+JavaFX / Spring Boot application used to create GCODE files for 4 axis hotwire cutting machine. The application can import Selig and Lednicer format airfoil .dat
 files from the University of Illinois [UIUC Airfoil Database]( http://m-selig.ae.illinois.edu/ads/coord_database.html) and other sites. Airfoil, chord length, twist,
 and offset are editable for both the tip and root.  There is a 2D view of the airfoils, as well as a 3D view of the wing half or whole
 wing. G-code can be generated for both the right and left (mirrored) wings. Created to generate G-code for low cost (?) hotwire foam
