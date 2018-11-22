@@ -16,7 +16,7 @@ Best viewed as [GitHub Pages](https://c-devine.github.io/Projects/)
 ![AvrSA](content/avrsa/img/avrsa-button-small.png?raw=true)[Project Overview](content/avrsa/avrsa.md)
 
 
-### Pan/Tilt controller firmware for OctoPrint Server
+### Pan/Tilt controller plugins and firmware for OctoPrint Server
 
 ![PanTilt](content/pantilt/img/pantilt-button-small.png?raw=true)[Project Overview](content/pantilt/pantilt.md)
 

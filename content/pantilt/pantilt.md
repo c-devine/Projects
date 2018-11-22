@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Various Pan Tilt controller firmware implementations for OctoPrint server
+title: Various Pan Tilt controller plugins and firmware implementations for OctoPrint server
 ---
 
 ## Overview
