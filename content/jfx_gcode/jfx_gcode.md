@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Java FX GCode Generator
+title: Java FX GCODE Generator
 ---
 ![java](https://forthebadge.com/images/badges/made-with-java.svg)
 ![certified](https://forthebadge.com/images/badges/approved-by-george-costanza.svg)

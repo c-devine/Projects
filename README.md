@@ -6,7 +6,7 @@
 Best viewed as GitHub Pages [Here](https://c-devine.github.io/Projects/)
 
 
-### JavaFX Airfoil GCode Generator
+### JavaFX Airfoil GCODE Generator
 
 ![JFX_GGode](content/jfx_gcode/img/jfx_gcode-button-small.png?raw=true)[Project Overview](content/jfx_gcode/jfx_gcode.md)
 
