@@ -6,8 +6,8 @@ title: 4 Axis CNC Hotwire Machine
 ## Overview
 
 The goal of this project was to build a relatively cheap CNC wing foam cutter using 3D printed parts,
-and other components easily available online.  After looking at the alternatives out designing on to use
-3d printed parts, and other items readily available online seemed like a better alternative.
+and other components easily available online.  After looking at the alternatives out there, designing
+a machine to use 3d printed parts, and other items readily available online seemed like a cheaper alternative.
 This project is documented [Here](https://github.com/c-devine/WingGcodeBuilder/wiki) on GitHub as well.
 
 ### Snapshots
