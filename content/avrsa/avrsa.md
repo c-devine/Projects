@@ -16,8 +16,10 @@ This project is documented [Here](https://github.com/c-devine/AvrSmartAudio) on 
 ### Snapshots
 
 ![AvrSA](img/avrsa-overview.png)
-[![Demo](img/youtube-prototype-small.png?raw=true)](https://www.youtube.com/watch?v=tcKi-m7yl1k "Adafruit Trinket Smart Audio Prototype on Breadboard")
 
+### Video
+
+[![Demo](img/youtube-prototype-small.png?raw=true)](https://www.youtube.com/watch?v=tcKi-m7yl1k "Adafruit Trinket Smart Audio Prototype on Breadboard")
 
 ### Software
 
