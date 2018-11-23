@@ -13,13 +13,17 @@ looking around for a while, I didn't find exactly what I was looking for, so I c
 software and pre-buit [releases](https://github.com/c-devine/WingGcodeBuilder/releases) are saved [Here](https://github.com/c-devine/WingGcodeBuilder) on GitHub.
 
 ### Snapshots
+
 <img src="https://raw.githubusercontent.com/c-devine/WingGcodeBuilder/snapshots/assets/img/2D.png?raw=true" width="180" height="120">
 <img src="https://raw.githubusercontent.com/c-devine/WingGcodeBuilder/snapshots/assets/img/3D-v101.png?raw=true" width="180" height="120">
 <img src="https://raw.githubusercontent.com/c-devine/WingGcodeBuilder/snapshots/assets/img/GCODE.png?raw=true" width="180" height="120">
 
+### Video
+
+[![WGB](img/jfx_youtube-small.png?raw=true)](https://youtu.be/wDMPSKyfra0 "WGB in Action")
+
 
 ### Software
-
 JavaFX / Spring Boot application used to create GCODE files for 4 axis hotwire cutting machine. The application can import Selig and Lednicer format airfoil .dat
 files from the University of Illinois [UIUC Airfoil Database]( http://m-selig.ae.illinois.edu/ads/coord_database.html) and other sites. Airfoil, chord length, twist,
 and offset are editable for both the tip and root.  There is a 2D view of the airfoils, as well as a 3D view of the wing half or whole
