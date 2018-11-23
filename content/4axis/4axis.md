@@ -18,6 +18,8 @@ This project is documented [Here](https://github.com/c-devine/WingGcodeBuilder/w
 <img src="https://raw.githubusercontent.com/c-devine/WingGcodeBuilder/snapshots/assets/img/4axis.jpg?raw=true" width="180" height="120">
 ![Profile](img/profile.png)
 
+### Video
+
 [![Wing Cutter in Action](img/wing-cut-video-small.png?raw=true)](https://www.youtube.com/watch?v=mL6x9N8o0wY "Wing Cut in Action")
 
 ### Hardware
