@@ -13,9 +13,9 @@ controller boards, but, do have FPV VTXs that may have Smart Audio capability.  
 used as the controller board since it is cheap (< $9.00) and has a pretty powerful chip (SAMD21)
 This project is documented [here](https://github.com/c-devine/AvrSmartAudio) on GitHub as well.
 
-### Snapshots
+### Snapshots (click for larger image)
 
-![AvrSA](img/avrsa-overview.png)
+[![AvrSA](img/avrsa-overview-small.png)](https://raw.githubusercontent.com/c-devine/AvrSmartAudio/snapshots/assets/img/overview.png?raw=true "Overview")
 
 ### Video
 

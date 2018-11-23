@@ -12,11 +12,12 @@ and other components easily available online.  After looking at the alternatives
 a machine to use 3d printed parts, and other items readily available online seemed like a cheaper alternative.
 This project is documented [here](https://github.com/c-devine/WingGcodeBuilder/wiki) on GitHub as well.
 
-### Snapshots
+### Snapshots (click for larger image)
 
-<img src="https://raw.githubusercontent.com/c-devine/WingGcodeBuilder/snapshots/assets/img/model.png?raw=true" width="180" height="120">
-<img src="https://raw.githubusercontent.com/c-devine/WingGcodeBuilder/snapshots/assets/img/4axis.jpg?raw=true" width="180" height="120">
-![Profile](img/profile.png)
+[![Model](img/model-small.png)](https://raw.githubusercontent.com/c-devine/WingGcodeBuilder/snapshots/assets/img/model.png?raw=true "Model View")
+[![4Axis](img/4axis-small.png)](https://raw.githubusercontent.com/c-devine/WingGcodeBuilder/snapshots/assets/img/4axis.jpg?raw=true "4 Axis View")
+[![Profile](img/profile-small.png)](https://raw.githubusercontent.com/c-devine/WingGcodeBuilder/snapshots/assets/img/profile.jpg?raw=true "Profile View")
+
 
 ### Video
 

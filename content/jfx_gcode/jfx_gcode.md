@@ -16,11 +16,12 @@ cutter.  See [wiki](https://github.com/c-devine/WingGcodeBuilder/wiki).
 
 - Go to  [GitHub](https://github.com/c-devine/WingGcodeBuilder) for full description, instructions, and software.
 
-### Snapshots
+### Snapshots (click for larger image)
 
-<img src="https://raw.githubusercontent.com/c-devine/WingGcodeBuilder/snapshots/assets/img/2D.png?raw=true" width="180" height="120">
-<img src="https://raw.githubusercontent.com/c-devine/WingGcodeBuilder/snapshots/assets/img/3D-v101.png?raw=true" width="180" height="120">
-<img src="https://raw.githubusercontent.com/c-devine/WingGcodeBuilder/snapshots/assets/img/GCODE.png?raw=true" width="180" height="120">
+[![2D](img/2D-small.png)](https://raw.githubusercontent.com/c-devine/WingGcodeBuilder/snapshots/assets/img/2D.png?raw=true "2D View")
+[![3D](img/3D-small.png)](https://raw.githubusercontent.com/c-devine/WingGcodeBuilder/snapshots/assets/img/3D-v101.png?raw=true "3D View")
+[![GCODE](img/GCODE-small.png)](https://raw.githubusercontent.com/c-devine/WingGcodeBuilder/snapshots/assets/img/GCODE.png?raw=true "GCODE View")
+
 
 ### Video
 
