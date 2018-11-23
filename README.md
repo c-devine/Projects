@@ -3,7 +3,7 @@
 ![winter](https://forthebadge.com/images/badges/winter-is-coming.svg)
 
 
-Best viewed as GitHub Pages [Here](https://c-devine.github.io/Projects/)
+Best viewed as GitHub Pages [Here.](https://c-devine.github.io/Projects/)
 
 
 ### JavaFX Airfoil GCODE Generator
