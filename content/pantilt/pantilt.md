@@ -16,9 +16,9 @@ for a simple and low cost 2 axis gimbal bracket.
 
 ## Repositories
  - [Arduino Nano Plugin](https://github.com/c-devine/OctoPrint-PanTilt-Nano) used as the controller for the gimbal. The Nano is controlled
-and powered through the USB port. Firmware is located [Here](https://github.com/c-devine/OctoPrint-PanTilt-Nano-Firmware)
+and powered through the USB port. Firmware is located [here](https://github.com/c-devine/OctoPrint-PanTilt-Nano-Firmware)
  - [ESP8266 Plugin](https://github.com/c-devine/OctoPrint-PanTilt-ESP8266) used as the controller for the gimbal. The ESP8266 is controlled
-and powered through the USB port. Firmware is located [Here](https://github.com/c-devine/OctoPrint-PanTilt-ESP8266-Firmware)
+and powered through the USB port. Firmware is located [here](https://github.com/c-devine/OctoPrint-PanTilt-ESP8266-Firmware)
 - [Simple PWM Control](https://github.com/c-devine/OctoPrint-PanTilt-Script) PGIO script to use existing PWM pins on the Raspberry PI
 to control the gimbal.
 

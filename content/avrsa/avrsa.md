@@ -11,7 +11,7 @@ The goal of this project was to write the firmware to allow a miniature controll
 use of Smart Audio on aircraft without needing a full blown FC running betaflight.  FPVWRA wings for example do not have
 controller boards, but, do have FPV VTXs that may have Smart Audio capability.  An Adafruit trinket was
 used as the controller board since it is cheap (< $9.00) and has a pretty powerful chip (SAMD21)
-This project is documented [Here](https://github.com/c-devine/AvrSmartAudio) on GitHub as well.
+This project is documented [here](https://github.com/c-devine/AvrSmartAudio) on GitHub as well.
 
 ### Snapshots
 
