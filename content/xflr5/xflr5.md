@@ -9,10 +9,17 @@ title: XFLR5 / Blender / Sketchup / CNC Slope Foamie Project
 Project used to capture and document the python scripts, software, and steps needed to go from models created in [XLFR5](http://www.xflr5.com/), exported to Blender,
 for CAM and CNC file generation in Blender with BlenderCAM.
 
-### Snapshots
-<img src="./img/xflr5-plane.png?raw=true" width="180" height="120">
-<img src="./img/thumb-blender-plane.png?raw=true" width="180" height="120">
-<img src="./img/foam-plane.jpg?raw=true" width="180" height="120">
+### Snapshots (click for larger image)
+
+[![xflr5-plane](img/xflr5-plane-small.png)](https://www.rcgroups.com/forums/attachmentNew.php?attachmentid=7333827 "XFLR5 View")
+[![blender-plane](img/blender-plane-small.png)](https://www.rcgroups.com/forums/attachmentNew.php?attachmentid=7333829 "Blender View")
+[![foam-plane](img/foam-plane-small.png)](https://www.rcgroups.com/forums/attachmentNew.php?attachmentid=7333865 "Finished View")
+[![xflr-5-body-export](img/xflr5-body-export-small.png)](https://www.rcgroups.com/forums/attachmentNew.php?attachmentid=7345776 "Body Export View")
+[![blender-body-import](img/blender-body-import-small.png)](https://www.rcgroups.com/forums/attachmentNew.php?attachmentid=7345787 "Body Import View")
+[![blender-full-small](img/blender-full-small.png)](https://www.rcgroups.com/forums/attachmentNew.php?attachmentid=7351523 "Body Import View")
+[![blender-cam-small](img/blender-cam-small.png)](https://www.rcgroups.com/forums/attachmentNew.php?attachmentid=7361273 "Blender CAM View")
+
+
 
 ### Software
 The python scripts used to import the body and wing files from the XFLR5 project files have been uploaded to
