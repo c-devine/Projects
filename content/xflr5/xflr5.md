@@ -20,7 +20,6 @@ for CAM and CNC file generation in Blender with BlenderCAM.
 [![blender-cam-small](img/blender-cam-small.png)](https://www.rcgroups.com/forums/attachmentNew.php?attachmentid=7361273 "Blender CAM View")
 
 
-
 ### Software
 The python scripts used to import the body and wing files from the XFLR5 project files have been uploaded to
 [RC Groups](https://www.rcgroups.com/forums/showthread.php?2295417-xflr5-Blender-Sketchup-CNC-Slope-Foamie-Project)
