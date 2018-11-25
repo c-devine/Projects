@@ -11,13 +11,13 @@ for CAM and CNC file generation in Blender with BlenderCAM.
 
 ### Snapshots (click for larger image)
 
-[![xflr5-plane](img/xflr5-plane-small.png)](https://www.rcgroups.com/forums/attachmentNew.php?attachmentid=7333827 "XFLR5 View")
-[![blender-plane](img/blender-plane-small.png)](https://www.rcgroups.com/forums/attachmentNew.php?attachmentid=7333829 "Blender View")
-[![foam-plane](img/foam-plane-small.png)](https://www.rcgroups.com/forums/attachmentNew.php?attachmentid=7333865 "Finished View")
-[![xflr-5-body-export](img/xflr5-body-export-small.png)](https://www.rcgroups.com/forums/attachmentNew.php?attachmentid=7345776 "Body Export View")
-[![blender-body-import](img/blender-body-import-small.png)](https://www.rcgroups.com/forums/attachmentNew.php?attachmentid=7345787 "Body Import View")
-[![blender-full-small](img/blender-full-small.png)](https://www.rcgroups.com/forums/attachmentNew.php?attachmentid=7351523 "Body Import View")
-[![blender-cam-small](img/blender-cam-small.png)](https://www.rcgroups.com/forums/attachmentNew.php?attachmentid=7361273 "Blender CAM View")
+[![xflr5-plane](img/xflr5-plane-small.png)](https://static.rcgroups.net/forums/attachments/3/7/1/6/7/7/a7333827-145-xflr5-plane.png "XFLR5 View")
+[![blender-plane](img/blender-plane-small.png)](https://static.rcgroups.net/forums/attachments/3/7/1/6/7/7/a7333829-244-blender-plane.png "Blender View")
+[![foam-plane](img/foam-plane-small.png)](https://static.rcgroups.net/forums/attachments/3/7/1/6/7/7/a7333865-241-20141123_213515.jpg "Finished View")
+[![xflr-5-body-export](img/xflr5-body-export-small.png)](https://static.rcgroups.net/forums/attachments/3/7/1/6/7/7/a7345776-215-export-body.png "Body Export View")
+[![blender-body-import](img/blender-body-import-small.png)](https://static.rcgroups.net/forums/attachments/3/7/1/6/7/7/a7345787-8-body%20cross%20sections%20lofted.png "Body Import View")
+[![blender-full-small](img/blender-full-small.png)](https://static.rcgroups.net/forums/attachments/3/7/1/6/7/7/a7351523-50-mirror-object-modifier.png "Body Full View")
+[![blender-cam-small](img/blender-cam-small.png)](https://static.rcgroups.net/forums/attachments/3/7/1/6/7/7/a7361273-118-roughing.png "Blender CAM View")
 
 
 ### Software
