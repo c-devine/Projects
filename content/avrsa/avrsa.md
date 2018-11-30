@@ -17,6 +17,9 @@ This project is documented [here](https://github.com/c-devine/AvrSmartAudio) on 
 
 [![AvrSA](img/avrsa-overview-small.png)](https://raw.githubusercontent.com/c-devine/AvrSmartAudio/snapshots/assets/img/overview.png?raw=true "Overview")
 
+
+[![GPS](img/radio-gps-small.png)](https://raw.githubusercontent.com/c-devine/AvrSmartAudio/snapshots/assets/img/radio-gps.png?raw=true "Overview")
+
 ### Video
 
 [![Demo](img/youtube-prototype-small.png?raw=true)](https://www.youtube.com/watch?v=tcKi-m7yl1k "Adafruit Trinket Smart Audio Prototype on Breadboard")
